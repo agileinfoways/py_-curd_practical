@@ -54,4 +54,4 @@ Can be used as web as well as API Way.
 
 
 ## POSTMAN COLLECTION CAN BE FOUND AT
-- https://www.getpostman.com/collections/59c91f47ae6acbf79e68
+- https://www.getpostman.com/collections/f3b6285dbac18dd833da
