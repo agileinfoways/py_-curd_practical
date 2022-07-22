@@ -42,7 +42,7 @@ Can be used as web as well as API Way.
 - Run Docker Image using Command : `docker run -p 8000:8000 shubhamdevgan/curd_demo:x86_64_arch`
 - If you Don't get any errors, you have successfully run project, goto browser and type `localhost:8000` you should see the project.
 
-## Setting Up and Running Project Using Docker For ARM Architecture System (Apple M1 Processor based systems)
+## Setting Up and Running Project Using Docker For ARM Architecture System (Apple M1 Processor based systems or Other arm64/v8 Processors)
 - Install Docker on your system 
 - Take Project build pull from Docker Hub using Command : `docker pull shubhamdevgan/curd_demo:arm_arch`
 - Run Docker Image using Command : `docker run -p 8000:8000 shubhamdevgan/curd_demo:arm_arch`
@@ -54,4 +54,4 @@ Can be used as web as well as API Way.
 
 
 ## POSTMAN COLLECTION CAN BE FOUND AT
-- https://www.getpostman.com/collections/59c91f47ae6acbf79e68
+- https://www.getpostman.com/collections/f3b6285dbac18dd833da
